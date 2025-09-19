@@ -4,7 +4,7 @@ Welcome to my GitHub! This is where I document my learning journey, share projec
 
 ### 🚀 About Me
 - 💻 **Python Enthusiast** | Sharpening my programming skills by building projects.
-- 🌱 Currently learning **Cybersecurity, AI/ML**.
+- 🌱 Currently learning **AI/ML**.
 - 🔎 Exploring systems, security, and self-discipline.
 - 🎯 Goal: Contribute to open-source and collaborate on fun projects.
   
