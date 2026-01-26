@@ -1,22 +1,29 @@
-# 👋 Hi there, I'm Mudasir
+## Hi, I'm Mudasir
 
-Welcome to my GitHub! This is where I document my learning journey, share projects, and contribute to the open-source community.
+I am on a Data Science path with a strong focus on building reliable and logically consistent data pipelines using Python.
 
-### 🚀 About Me
-- 💻 **Python Enthusiast** | Sharpening my programming skills by building projects.
-- 🌱 Currently learning **AI/ML**.
-- 🔎 Exploring systems, security, and self-discipline.
-- 🎯 Goal: Contribute to open-source and collaborate on fun projects.
-  
-<br/>
+My current work centers around:
+- Data cleaning and validation
+- Handling missing and inconsistent real-world data
+- Provenance tracking for derived metrics
+- Defensive data engineering using logical constraints
 
-> *"Consistency beats intensity. Code something today."*
+I am particularly interested in the layer between raw data and modeling — where most real-world data problems actually exist.
 
-<br/>
+### Core Tools
+- Python
+- Pandas
+- NumPy
+- SQL
+- Excel
+- Git
 
-## 📁 Highlighted Repository
-📌 [**Hands-On Python Lab**](https://github.com/mudasirfayaz/python-learning-projects)  
-A growing collection of beginner to advanced Python projects. Organized by difficulty. Contributions welcome!
+### Featured Projects
+- [Cricket Batting Data Cleaning & Validation Pipeline](https://github.com/mudasirfayaz/cricket-data-cleaning)
+- [Data Entry Automation](https://github.com/mudasirfayaz/data-entry-automation) 
+
+
+My goal is to build systems where data is not just transformed, but actively verified.
 
 <br/>
 
@@ -26,6 +33,3 @@ A growing collection of beginner to advanced Python projects. Organized by diffi
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/mindsparkx)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mudasirfayaz32@gmail.com)
 
-<br/>
-
-🔒 _This is a learning-focused profile. Everything here is a work-in-progress — and that’s the point._
