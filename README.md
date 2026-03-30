@@ -58,8 +58,11 @@ An end-to-end data project: writing SQL queries to explore and model the data, t
 ## 📈 GitHub Stats
  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mudasirfayaz&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudasirfayaz&layout=compact&theme=default&hide_border=true" width="40%" />
+  <img src="https://streak-stats.demolab.com?user=mudasirfayaz&theme=default&hide_border=true" width="52%" />
+</p>
+ 
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudasirfayaz&theme=default" width="75%" />
 </p>
  
 ---
