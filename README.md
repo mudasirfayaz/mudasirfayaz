@@ -1,35 +1,86 @@
-## Hi, I'm Mudasir
+# Hi there, I'm Mudasir Fayaz 👋
+ 
+> *Aspiring Data Analyst | Turning raw data into meaningful stories, one query at a time.*
+ 
+I'm currently on a focused journey into **data analytics** — learning by building, breaking things, and rebuilding them better. I come from a Python automation background and I'm steadily expanding into the full data stack: cleaning, querying, and visualizing data to uncover insights.
+ 
+---
+ 
+## 🧭 Where I Am Right Now
+ 
+- 📊 Building my first **SQL + Power BI** project — data modeled and queried, now diving into visualization
+- 🐼 Practiced **data cleaning** with Pandas on real-world messy datasets
+- ⚙️ Have a foundation in **Python automation** — scripting repetitive tasks and workflows
+- 📚 Actively learning and growing every day
+ 
+---
 
-I am on a Data Science path with a strong focus on building reliable and logically consistent data pipelines using Python.
+## 🛠️ Tools & Technologies
+ 
+**Languages & Querying**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+ 
+**Data & Analysis**
+ 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+ 
+**Dev Environment & Workflow**
+ 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ 
+---
 
-My current work centers around:
-- Data cleaning and validation
-- Handling missing and inconsistent real-world data
-- Provenance tracking for derived metrics
-- Defensive data engineering using logical constraints
+## 📁 Projects
+ 
+### 🔧 [Data Entry Automation](https://github.com/mudasirfayaz/data-entry-automation)
+End-to-end data entry automation project using BeautifulSoup + Selenium + Google Forms + Google Sheets. 
+ 
+---
+ 
+### 🧹 [Cricket Data Cleaning](https://github.com/mudasirfayaz/cricket-data-cleaning)
+This project cleans and validates a historical cricket batting averages dataset using Python and Pandas. 
+ 
+---
+ 
+### 📊 [SQL + Power BI Dashboard](https://github.com/mudasirfayaz/rideshare-analytics) *(In Progress)*
+An end-to-end data project: writing SQL queries to explore and model the data, then building an interactive Power BI dashboard on top. Currently in the visualization phase.
+ 
+> More projects coming as I keep learning!
+ 
+---
 
-I am particularly interested in the layer between raw data and modeling — where most real-world data problems actually exist.
+## 📈 GitHub Stats
+ 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mudasirfayaz&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudasirfayaz&layout=compact&theme=default&hide_border=true" width="40%" />
+</p>
+ 
+---
+ 
+## 🌱 What I'm Working Towards
+ 
+- Complete the SQL + Power BI project and publish it here
+- Dive deeper into **data visualization** and storytelling with data
+- Start exploring **statistics** fundamentals for better analysis
+- Eventually work with larger datasets and real business problems
+ 
+---
+ 
+## 📬 Let's Connect
+ 
+I'm always open to feedback, collaboration, or just a chat about data!
 
-### Core Tools
-- Python
-- Pandas
-- NumPy
-- SQL
-- Excel
-- Git
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mudasirfayaz)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mudasirfayaz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudasirfayaz32@gmail.com)
 
-### Featured Projects
-- [Cricket Batting Data Cleaning & Validation Pipeline](https://github.com/mudasirfayaz/cricket-data-cleaning)
-- [Data Entry Automation](https://github.com/mudasirfayaz/data-entry-automation) 
-
-
-My goal is to build systems where data is not just transformed, but actively verified.
-
-<br/>
-
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mudasirfayaz)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mudasirfayaz_)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/mindsparkx)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mudasirfayaz32@gmail.com)
-
+---
+ 
+*"Every expert was once a beginner. I'm showing up every day."*
