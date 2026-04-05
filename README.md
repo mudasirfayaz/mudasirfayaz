@@ -43,14 +43,14 @@ End-to-end data entry automation project using BeautifulSoup + Selenium + Google
  
 ---
  
-### 🧹 [Cricket Data Cleaning](https://github.com/mudasirfayaz/cricket-data-cleaning)
-This project cleans and validates a historical cricket batting averages dataset using Python and Pandas. 
- 
----
- 
-### 📊 [SQL + Power BI Dashboard](https://github.com/mudasirfayaz/rideshare-analytics) *(In Progress)*
+### 📊 [Rideshare Data Analysis](https://github.com/mudasirfayaz/rideshare-analytics) *(In Progress)*
 An end-to-end data project: writing SQL queries to explore and model the data, then building an interactive Power BI dashboard on top. Currently in the visualization phase.
- 
+
+---
+
+### 🛒 [E-Commerce Customer Churn Prediction](https://github.com/mudasirfayaz/Olist-Ecom-Churn-Analysis). *(In Progress)*
+An End-to-End Data Engineering & Predictive Analytics Project.
+
 > More projects coming as I keep learning!
  
 ---
@@ -58,11 +58,8 @@ An end-to-end data project: writing SQL queries to explore and model the data, t
 ## 📈 GitHub Stats
  
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=mudasirfayaz&theme=default&hide_border=true" width="52%" />
-</p>
- 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudasirfayaz&theme=default" width="75%" />
+  <img src="https://streak-stats.demolab.com?user=mudasirfayaz&theme=default&hide_border=true" width="41%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudasirfayaz&theme=default" width="57%" />
 </p>
  
 ---
