@@ -43,7 +43,7 @@ End-to-end data entry automation project using BeautifulSoup + Selenium + Google
  
 ---
  
-### 📊 [Rideshare Data Analysis](https://github.com/mudasirfayaz/rideshare-analytics) *(In Progress)*
+### 📊 [Rideshare Data Analysis (SQL + Power BI)](https://github.com/mudasirfayaz/rideshare-analytics)
 An end-to-end data project: writing SQL queries to explore and model the data, then building an interactive Power BI dashboard on top. Currently in the visualization phase.
 
 ---
