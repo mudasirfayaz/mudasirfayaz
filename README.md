@@ -46,10 +46,6 @@ End-to-end data entry automation project using BeautifulSoup + Selenium + Google
 ### 📊 [Rideshare Data Analysis (SQL + Power BI)](https://github.com/mudasirfayaz/rideshare-analytics)
 An end-to-end data project: writing SQL queries to explore and model the data, then building an interactive Power BI dashboard on top. Currently in the visualization phase.
 
----
-
-### 🛒 [E-Commerce Customer Churn Prediction](https://github.com/mudasirfayaz/Olist-Ecom-Churn-Analysis). *(In Progress)*
-An End-to-End Data Engineering & Predictive Analytics Project.
 
 > More projects coming as I keep learning!
  
